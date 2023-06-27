@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Raleway:wght@100&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Playfair+Display&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Playfair+Display&family=Raleway:wght@100&family=Varela+Round&display=swap');
+
+
+
+
+
+
+
+body {
+    /*background-image: url('/public/images/ourdocs.jpg');*/
+    background-repeat: no-repeat;
+    /*background-size: 1920px 500px;*/
+    /* rgb(255, 255, 255);*/
+}
+
+#h1 {
+    color: rgb(39, 39, 247);
+    margin: -14px 748px;
+    position: relative;
+    top: 85px;
+    font-size: 59px;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Roboto Condensed';
+}
+
+
+.doctorlist1 {
+    display: flex;
+    position: relative;
+    top: 160px;
+    left: 370px;
+}
+
+
+.doctors1 img {
+    padding: 10px 30px;
+    width: 340px;
+    height: 320px;
+}
+
+.doctors1 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin: 15px 25px;
+    height: 500px;
+    transition: transform .2s;
+   
+}
+
+.doctors1:hover {
+    cursor: pointer;
+    background-color: #dbdbdb;
+    transform: scale(1.2);
+    
+}
+
+
+.h-primary2 {
+    padding: 5px;
+    color: black;
+    font-family: 'Varela Round';
+    font-size: 25px;
+}
+
+.s-secondary1 {
+    color: rgb(39, 39, 247);
+    font-family: serif;
+    font-size: 19px;
+
+
+}
+
+.s-secondary2 {
+    color: grey;
+    font-family: serif;
+    font-size: 19px;
+
+}
+
+.text-center {
+
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.text-reset {
+    text-decoration: none;
+
+}
+
+.fa-twitter {
+    color: whitesmoke;
+}
+
+.fa {
+    color: aliceblue;
+}
+
+.fa-facebook {
+    color: whitesmoke;
+}
+
+#s {
+    color: red;
+    position: relative;
+    top: 100px;
+    left: 26%;
+
+}
+
+.css {
+    height: 815px;
+}
+
+.foo {
+    width: 102%;
+    top: 1100px;
+    position: relative;
+}
+
+.div {
+    display: flex;
+}
+
+#ourdocs {
+    text-decoration: none;
+    ;
+}
