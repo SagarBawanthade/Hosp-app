@@ -3,6 +3,21 @@ This is simple hospital Website which used to stored the Patients Reocords.
     In this We can perform the CRUD Operation of Patient like add data,delete it,edit it,Update it.
     also Print feature is also include in it.
 
+HomePage 
+![Screenshot (120)](https://github.com/SagarBawanthade/hosp-app/assets/137410094/f1e5c48b-6943-44b5-8aac-1db595743bd2)
+
+Login Form
+![Screenshot (123)](https://github.com/SagarBawanthade/hosp-app/assets/137410094/243dabc4-7daf-416d-98d4-719453de00ab)
+
+Patients records
+![Screenshot (125)](https://github.com/SagarBawanthade/hosp-app/assets/137410094/b387205b-379b-44a3-813f-243124c0d398)
+
+Authntication for access to medical records
+![Screenshot (124)](https://github.com/SagarBawanthade/hosp-app/assets/137410094/30597dd5-0ea5-4f8e-9ea6-e01fd7efc104)
+
+
+
+
 ## Installation
 
     Clone this project to your local machine 
